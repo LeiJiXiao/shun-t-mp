@@ -47,4 +47,8 @@ export default {
   -webkit-transition: width 2s;
   -o-transition: width 2s;
 }
+  page{
+    background-color: #F5F5F3;
+    font-size: 32rpx;
+  }
 </style>
